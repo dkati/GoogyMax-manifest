@@ -5,5 +5,4 @@
            fetch="https://github.com/" /> 
   
    <project path="googykernel" name="dkati/Googy-Max3-Kernel" remote="github" revision="cm-14.0" />
-  <project path="googykernel/Toolchain" name="B--B/Custom_Toolchains" groups="pdk,linux,arm" remote="github" revision="arm-eabi-4.9-Linaro-generic" />
 </manifest>
