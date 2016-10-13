@@ -1,0 +1,1 @@
+# GoogyMax-manifest
