@@ -5,4 +5,5 @@
            fetch="https://github.com/" /> 
   
    <project path="googykernel" name="dkati/Googy-Max3-Kernel" remote="github" revision="cm-14.0" />
+  <project path="googykernel/Toolchain" name="ArchiDroid/Toolchain prebuilts/gcc/linux-x86/arm/arm-linux-eabi-linaro-4.9" remote="github" revision="linaro-4.9-arm-linux-eabi" />
 </manifest>
