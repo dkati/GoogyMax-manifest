@@ -3,5 +3,5 @@
 
   <remote name="github"
            fetch="https://github.com/" /> 
-   <project path="GoogyKernel" name="dkati/Googy-Max3-Kernel" revision="cm12" />
+   <project path="GoogyKernel" name="dkati/Googy-Max3-Kernel" revision="cm-14.0" />
 </manifest>
