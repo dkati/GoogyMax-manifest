@@ -4,5 +4,5 @@
   <remote name="github"
            fetch="https://github.com/" /> 
   
-   <project path="googykernel" name="dkati/Googy-Max3-Kernel" remote="github" revision="cm-14.0" />
+   <project path="googykernel" name="dkati/Googy-Max3-Kernel" remote="github" revision="cm-14.1" />
 </manifest>
